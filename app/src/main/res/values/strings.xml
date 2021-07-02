@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">펫친</string>
+    <string name="title_home">홈</string>
+    <string name="title_talk">펫톡</string>
+    <string name="title_friends">펫친</string>
+    <string name="title_myinfo">내정보</string>
+</resources>
